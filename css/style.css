@@ -1,0 +1,9 @@
+.minha-regra {
+    padding: 10px 25px;
+}
+
+.meu-banner {
+    background-image: url("../img/Fundo_Banner.avif");
+    background-size: cover;
+    background-position: center center;
+}
